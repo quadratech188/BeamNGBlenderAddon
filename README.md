@@ -14,7 +14,7 @@ Name: Self-explanatory, No duplicates
 
 Vehicle Type: the internal name of the vehicle, name of the folder
 
-Share Identical Materials: Use the same material whenever possible, reduce file size
+Share Identical Materials: Use the same material whenever possible, NOT FULLY IMPLEMENTED YET
 
 When you press 'Import new model', all the meshes will be put into a collection.
 
