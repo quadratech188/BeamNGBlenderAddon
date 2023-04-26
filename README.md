@@ -20,6 +20,3 @@ When you press 'Import new model', all the meshes will be put into a collection.
 
 Select Collection: The collection that holds the vehicle meshes
 
-
-# Demo
-https://www.youtube.com/watch?v=a8-zbuW4P_M
